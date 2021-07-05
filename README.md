@@ -9,7 +9,7 @@ Users:
 3. Student
 4. Portal Admin  
 
-Features:
+Features:  
 6. User Login  
 7. User creation by portal admin and assignment of roles (Hod, faculty, student)  
 8. Portal admin can add/delete/update users  
