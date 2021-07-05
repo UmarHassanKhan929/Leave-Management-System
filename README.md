@@ -7,13 +7,14 @@ Users:
 1. Hod
 2. Faculty
 3. Student
-4. Portal Admin
+4. Portal Admin  
+
 Features:
-1. User Login
-2. User creation by portal admin and assignment of roles (Hod, faculty, student)
-3. Portal admin can add/delete/update users
-4. Hod should be able to assign leave quota to faculty and students
-5. When Faculty apply for leave it will go to Hod for approval. He/she can only appy for leave if
+6. User Login
+7. User creation by portal admin and assignment of roles (Hod, faculty, student)
+8. Portal admin can add/delete/update users
+9. Hod should be able to assign leave quota to faculty and students
+10. When Faculty apply for leave it will go to Hod for approval. He/she can only appy for leave if
 his/her monthly quota for leave is available
 6. If student will apply for leave it will be forwarded to faculty for approval. After approval from
 teacher it will go to hod for approval.
