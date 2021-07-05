@@ -10,21 +10,21 @@ Users:
 4. Portal Admin  
 
 Features:
-6. User Login
-7. User creation by portal admin and assignment of roles (Hod, faculty, student)
-8. Portal admin can add/delete/update users
-9. Hod should be able to assign leave quota to faculty and students
+6. User Login  
+7. User creation by portal admin and assignment of roles (Hod, faculty, student)  
+8. Portal admin can add/delete/update users  
+9. Hod should be able to assign leave quota to faculty and students  
 10. When Faculty apply for leave it will go to Hod for approval. He/she can only appy for leave if
-his/her monthly quota for leave is available
+his/her monthly quota for leave is available  
 6. If student will apply for leave it will be forwarded to faculty for approval. After approval from
-teacher it will go to hod for approval.
-7. Approving authority can disapprove the leave also
-8. Make pages for all the users for display of applied leave.
+teacher it will go to hod for approval.  
+7. Approving authority can disapprove the leave also  
+8. Make pages for all the users for display of applied leave.  
 9. There should be a tracking page where complete leave tracking is displayed. In case of
-disapproved leaves reason should be displayed.
+disapproved leaves reason should be displayed.  
 10. If student applies for more than 10 days leave it should skip teacher and go directly to Hod for
-approval.
-11. Student should be able to print the leave in a hard form based on predefined template
+approval.  
+11. Student should be able to print the leave in a hard form based on predefined template  
 
 
 
