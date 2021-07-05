@@ -1,5 +1,6 @@
 # Leave Management System  
-## Following Features
+
+## Details About project
 Users:
 1. Hod
 2. Faculty
@@ -22,7 +23,7 @@ disapproved leaves reason should be displayed.
 approval.
 11. Student should be able to print the leave in a hard form based on predefined template
 
-# Details About project
+
 
 # Additional Info
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
